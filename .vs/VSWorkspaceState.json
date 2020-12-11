@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\frontend",
+    "\\frontend\\src",
+    "\\frontend\\src\\components",
+    "\\frontend\\src\\components\\Posts",
+    "\\frontend\\src\\context",
+    "\\frontend\\src\\pages",
+    "\\frontend\\src\\pages\\Personal",
+    "\\frontend\\src\\pages\\Personal\\Tutorials"
+  ],
+  "SelectedNode": "\\frontend\\src\\App.js",
+  "PreviewInSolutionExplorer": false
+}

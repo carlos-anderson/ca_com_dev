@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "ca_com_blog",
+    "MONGO_PASSWORD": "!M@uric3!",
+    "MONGO_DB": "CaComBlog"
+  }
+}
